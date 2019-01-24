@@ -60,3 +60,5 @@ Form Field Labels: #FFFFFF > #F9FAFB (gradient)
 Run Simulation Button: #FFFFFF
 Remove Chair Button Border: #12B9EF
 Remove Chair Button Fill: #34C9F9 > #24C4F8 (gradient)
+
+My solution in CodePen https://codepen.io/ccy/full/YdVyxW
